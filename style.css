@@ -1,0 +1,35 @@
+select#data_category_id{
+  height: 30px;
+  border-radius: 5px 5px 5px 5px;
+  width:183px;
+}
+textarea#comments{
+  border-radius: 5px 5px 5px 5px;
+  width:57%;
+  height:52px;
+  float:left;
+}
+.hastip:after {
+    content: '?';
+    display: inline-block;
+    background-color: #3c3c3b;
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
+    line-height: 1.5em;
+    border-radius: 50%;
+    color: #fff;
+    margin-left: .5em;
+    opacity: .5;
+    font-size: .9em;
+    font-weight: 400;
+}
+input#url{
+  border-radius: 5px 5px 5px 5px;
+  width:57%;
+}
+ button.submit{
+  float: left;
+    margin-top: 70px;
+    margin-left: -57%;
+}
