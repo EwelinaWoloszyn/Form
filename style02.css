@@ -5,7 +5,9 @@ padding:40px;
 padding-bottom: 80px;  
 }
 ul{z-index:9000;
-  position:relative;}
+position:relative;
+margin-left: -65px;
+}
 li.breadcr {
   width: 2em;
   height: 2em;
