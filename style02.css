@@ -75,7 +75,7 @@ textarea#comments{
 }
 input#url{
   border-radius: 5px 5px 5px 5px;
-  width:100%;
+  width: 39%;
 }
  button.submit{
   float: left;
